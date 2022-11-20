@@ -1,5 +1,5 @@
 <?php
 
-echo "relou uordi";
+echo "relou uordi nau";
 
 ?>
